@@ -1,0 +1,13 @@
+npm install -done
+
+create index,css,js files-done
+
+install dependancies,expree,nodemon(dev dep.)- donecreate
+
+create express server -done
+
+do frontend part -done
+
+socket.io -done
+
+
